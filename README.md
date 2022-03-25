@@ -1,4 +1,4 @@
-<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="120" height="120" align="left">
+<img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/azimvau.gif" width="130" height="130" align="left">
 <center>
   
   
@@ -14,7 +14,7 @@ ____Programming And Memes____
 
 CONTACT WITH <a href="https://github.com/Azim-vau"><b>MR. ERROR </a> </br><br>
 <img src="https://github.com/Azim-vau/Azim-vau/blob/main/IMAGE/contact.png" alt="alt text" width="25" height="25"> <br>
-<p>errorazim@gmail.com</p>  <br> <br> 
+<p>xiancollins2@gmail.com</p>  <br> <br> 
 
 
 <a href="https://github.com/Azim-Vau/followers">
